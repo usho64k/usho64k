@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=usho64k&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usho64k" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usho64k&langs_count=8" />
 </a><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="https://usho64k.github.io/">詳細Profileはこっちに乗せてます。</a><br>
   
