@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=usho64k&theme=dracula)
 <h1>えっ</h1>
   <a link="https://usho64k.github.io/>こっちに乗せてまーす</a>
   
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=usho64k&theme=dracula)
