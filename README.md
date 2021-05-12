@@ -1,4 +1,4 @@
-# Github readme stats
+# Github Profile
 
 [詳細プロフィールはこちら](https://usho64k.github.io/)
   
